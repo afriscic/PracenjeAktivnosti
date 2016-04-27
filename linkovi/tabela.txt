@@ -1,0 +1,19 @@
+﻿kolone
+
+naziv	parent	child	text	....
+
+
+parent - child određuje međuovisnost odabira i sljedećeg izbora na panelu
+
+
+
+
+struktura izlazne tabele Work in progres
+
+bilo bi dobro 
+naziv, opis, ....
+
+
+dodati rezultat aktivnosti (koji?? uspješno, neuspješno, nije primjenjivo?)
+
+uključiti statistiku ili export u excel?
